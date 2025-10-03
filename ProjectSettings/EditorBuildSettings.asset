@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Main.unity
+    guid: 54266c15f44a3a94a844c4c740fe3d49
+  - enabled: 0
+    path: Assets/Scenes/Demo1.unity
+    guid: 97bd7f6fde7c6b245b8d36db330e0049
+  - enabled: 0
+    path: Assets/Scenes/With Out Image Demo.unity
+    guid: cdbb4f0ae29018048bf7784d66863d0f
+  - enabled: 1
+    path: Assets/Scenes/Ai Main.unity
+    guid: 9d53d64cfe418d844873ad1ff2747775
+  - enabled: 1
+    path: Assets/Scenes/Ai Demo.unity
+    guid: 2059b4b17313c6649a4b6629c01df118
+  - enabled: 1
+    path: Assets/SpeechAndText/Sample/SampleSpeechToText.unity
+    guid: d9447599b4cad0245ac00fa552c354b6
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: e1da5b5b766424346868e41a0fab7cb5,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 417f400ac01197040bb9919b253107f9,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 076fc2f3a5fd73544bfcb213c77c82d4,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b6b303e0288342b4e8abee8e3850521f,
+      type: 2}
